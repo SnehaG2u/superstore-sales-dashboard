@@ -19,7 +19,8 @@ This project analyzes a retail dataset (9,000+ records) to uncover business insi
 
 ## 🛠 Tools Used
 - Power BI
-- Python (Pandas)
+- Python (Pandas,Matplotlib)
+- Excel
 
 ## Dashboard preview
 <img width="961" height="468" alt="Screenshot 2026-03-19 010507" src="https://github.com/user-attachments/assets/ad1c7b51-5ba5-4f0b-8677-6ae9a59e63cd" />
